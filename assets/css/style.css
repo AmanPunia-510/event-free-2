@@ -378,8 +378,12 @@
 }
 
 .section4-p1 {
-    max-width: 857px;
+    max-width: 762px;
     margin-bottom: 45px;
+}
+
+.section2-p2 {
+    max-width: 642px;
 }
 
 .tell-us {
@@ -406,10 +410,7 @@
 
 .post-comment {
     width: 208px;
-    display: flex;
     height: 56px;
-    align-items: center;
-    justify-content: center;
     border-radius: 36px;
 }
 
