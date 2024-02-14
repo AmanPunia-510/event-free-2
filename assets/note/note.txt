@@ -1,0 +1,2 @@
+ <p class="add-new-comment ff-poppins font-weight-400 fs-20 line-height-30 color-666">Add a new
+                        comment</p>
