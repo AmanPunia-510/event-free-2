@@ -389,7 +389,7 @@
 .image-input-post-comment {
     border-radius: 35px;
     border: 1px solid #9CA1BE;
-    padding-right: 8px;
+    padding-right: 4px;
     margin-bottom: 45px;
 }
 
@@ -401,11 +401,15 @@
 .add-new-comment {
     border: none;
     outline: none;
-    width: 150%;
+    width: 100%;
 }
 
 .post-comment {
-    padding: 13px 28px;
+    width: 208px;
+    display: flex;
+    height: 56px;
+    align-items: center;
+    justify-content: center;
     border-radius: 36px;
 }
 
@@ -491,6 +495,16 @@ footer {
 .image6 {
     margin-left: 12px;
 }
+
+.group-img-or-input {
+    width: 80%;
+}
+
+form {
+    width: 100%;
+}
+
+
 
 input:checked~.navbar-items {
     left: 0;
