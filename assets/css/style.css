@@ -505,7 +505,13 @@ form {
     width: 100%;
 }
 
+.event:hover {
+    cursor: unset;
+}
 
+.service:hover {
+    cursor: unset;
+}
 
 input:checked~.navbar-items {
     left: 0;
